@@ -110,3 +110,7 @@ git fetch origin (to fetch the latest changes from the remote repository).
 git pull origin <branch name> (to pull the latest changes from a specific branch).
 git push origin <branch name> (to push the changes to a specific branch).
 git push --set-upstream origin <branch name> (to set the upstream branch for the current branch).
+Pull Request: (to create a pull request on GitHub).
+Merge conflicts: (to resolve merge conflicts).
+git merge --abort (to abort the merge process).
+git rebase --abort (to abort the rebase process).
